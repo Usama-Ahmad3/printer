@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59700590437",
+    "project_id": "poetic-inkwell-374202",
+    "storage_bucket": "poetic-inkwell-374202.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59700590437:android:7282654fbdcba07a3f938c",
+        "android_client_info": {
+          "package_name": "com.keybotix.printer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59700590437-ui80ojqf0cs3vcnlc259see4em29aevg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnIZGQ7hpC5y9ydZZljnJ2UADec5FN6Wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59700590437-ui80ojqf0cs3vcnlc259see4em29aevg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
